@@ -26,7 +26,7 @@ Soy estudiante del último año de Ingeniería de Sistemas Computacionales en la
 
 [![Abrir Humbertito](https://img.shields.io/badge/Abrir_Humbertito-6849BD?style=for-the-badge&logo=railway&logoColor=white)](https://humbertito-production.up.railway.app/)
 
-Desarrollé un sistema web para gestionar inventario, compras y ventas de una librería y bazar. El sistema está alojado en Railway y usa Supabase para sus datos. La interfaz en Next.js incluye un panel de ventas con un gráfico interactivo y un módulo de inventario en Angular.
+Desarrollé un sistema web para gestionar inventario, compras y ventas de Librería Bazar Humbertito. El sistema está alojado en Railway y usa Supabase para sus datos. La interfaz en Next.js incluye un panel de ventas con un gráfico interactivo y un módulo de inventario en Angular.
 
 - **Inventario y operaciones** · Registro y búsqueda de productos, alertas de stock e historial de compras y ventas.
 - **Excel y reportes** · Plantillas, importación y exportación de datos, e informes de pronóstico en PDF.
