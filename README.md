@@ -2,7 +2,7 @@
   <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;height=105&amp;color=0:0C2944,100:087E8B&amp;section=header">
   <h1>Luis Angel Salinas Bardales</h1>
   <p><strong>Ingeniería de Sistemas Computacionales · Universidad Privada del Norte</strong></p>
-  <img alt="Python, Streamlit y SQL · Librería Bazar Humbertito" width="700" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2800&amp;pause=1100&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=45&amp;lines=Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas%20Computacionales;Desarrollo%20con%20Python%2C%20Streamlit%20y%20SQL;Librer%C3%ADa%20Bazar%20Humbertito">
+  <img alt="Python, Streamlit y SQL · Librería Bazar Humbertito" width="700" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2800&amp;pause=1100&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=45&amp;lines=Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas%20Computacionales;Desarrollo%20con%20Next.js%2C%20Python%20y%20SQL;Librer%C3%ADa%20Bazar%20Humbertito">
 </div>
 
 ## Sobre mí
@@ -24,13 +24,13 @@ Soy estudiante del último año de Ingeniería de Sistemas Computacionales en la
 
 ### [Librería Bazar Humbertito](https://github.com/luiangelsb26/librer-a-bazar-humbertito)
 
-Desarrollé un sistema de gestión en Python y Streamlit para una librería y bazar. Permite registrar productos, compras y ventas, consultar existencias y revisar alertas de stock.
+Desarrollé un sistema de gestión para una librería y bazar con interfaz adaptable en Next.js y una API en Python. Permite registrar productos, compras y ventas, consultar existencias y revisar alertas de stock.
 
 - Importación de productos, compras y ventas desde Excel.
 - Panel de indicadores y pronóstico de demanda a partir del historial de ventas.
-- Generación de reportes en PDF.
+- Generación de reportes en PDF y administración de usuarios por roles.
 
-**Stack del proyecto** · Python · Streamlit · PostgreSQL (Supabase) · SQLite · Pandas · Plotly
+**Stack del proyecto** · Next.js · React · Python · Starlette · Streamlit · PostgreSQL (Supabase) · SQLite · Pandas · Plotly
 
 ---
 
@@ -38,7 +38,8 @@ Desarrollé un sistema de gestión en Python y Streamlit para una librería y ba
 
 | Área | Tecnologías |
 | --- | --- |
-| Aplicación | Python, Streamlit |
+| Interfaz web | Next.js, React, Streamlit |
+| API | Python, Starlette |
 | Persistencia | PostgreSQL (Supabase), SQLite, SQL |
 | Análisis y visualización | Pandas, Plotly, scikit-learn |
 | Conocimientos complementarios | Java, C#, HTML |
@@ -47,6 +48,7 @@ Desarrollé un sistema de gestión en Python y Streamlit para una librería y ba
 
 <div align="center">
 
+![Next.js](https://img.shields.io/badge/Next.js-151515?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-C73044?style=for-the-badge&logo=streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
