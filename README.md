@@ -24,13 +24,13 @@ Soy estudiante del último año de Ingeniería de Sistemas Computacionales en la
 
 ### [Librería Bazar Humbertito](https://github.com/luiangelsb26/librer-a-bazar-humbertito)
 
-Desarrollé un sistema de gestión para una librería y bazar con interfaz en Next.js, módulo de inventario en Angular y API en Python. Permite registrar productos, compras y ventas, consultar existencias y revisar alertas de stock.
+Desarrollé un sistema de gestión para una librería y bazar con interfaz oscura en Next.js, módulo de inventario en Angular y API en Python. Permite registrar productos, compras y ventas, consultar existencias y revisar alertas de stock.
 
 - Importación de productos, compras y ventas desde Excel.
 - Panel de indicadores y pronóstico de demanda a partir del historial de ventas.
 - Generación de reportes en PDF y administración de usuarios por roles.
 
-**Stack del proyecto** · Next.js · React · Angular · Python · Starlette · Streamlit · PostgreSQL (Supabase) · SQLite · Pandas · Plotly
+**Stack del proyecto** · Next.js · React · Angular · Python · Starlette · PostgreSQL (Supabase) · SQLite · Pandas · Plotly
 
 ---
 
@@ -38,7 +38,7 @@ Desarrollé un sistema de gestión para una librería y bazar con interfaz en Ne
 
 | Área | Tecnologías |
 | --- | --- |
-| Interfaz web | Next.js, React, Angular, Streamlit |
+| Interfaz web | Next.js, React, Angular |
 | API | Python, Starlette |
 | Persistencia | PostgreSQL (Supabase), SQLite, SQL |
 | Análisis y visualización | Pandas, Plotly, scikit-learn |
