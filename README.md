@@ -22,15 +22,17 @@ Soy estudiante del último año de Ingeniería de Sistemas Computacionales en la
 
 ## Proyecto destacado
 
-### [Librería Bazar Humbertito](https://github.com/luiangelsb26/librer-a-bazar-humbertito)
+### Librería Bazar Humbertito
 
-Desarrollé un sistema web para gestionar inventario, compras y ventas de una librería y bazar. Rediseñé el inicio de sesión y el panel con un tema oscuro adaptable, e integré un módulo Angular en Inventario.
+[![Abrir Humbertito](https://img.shields.io/badge/Abrir_Humbertito-6849BD?style=for-the-badge&logo=railway&logoColor=white)](https://humbertito-production.up.railway.app/)
+
+Desarrollé un sistema web para gestionar inventario, compras y ventas de una librería y bazar. El sistema está alojado en Railway y usa Supabase para sus datos. La interfaz en Next.js incluye un panel de ventas con un gráfico interactivo y un módulo de inventario en Angular.
 
 - **Inventario y operaciones** · Registro y búsqueda de productos, alertas de stock e historial de compras y ventas.
 - **Excel y reportes** · Plantillas, importación y exportación de datos, e informes de pronóstico en PDF.
 - **Análisis y acceso** · Indicadores de ventas, pronóstico de demanda y administración de cuentas por roles.
 
-**Stack del proyecto** · Next.js · React · Angular · Python · Starlette · PostgreSQL (Supabase) · SQLite · Pandas · scikit-learn
+**Stack del proyecto** · Next.js · React · Angular · Python · Starlette · PostgreSQL (Supabase) · SQLite · Pandas · scikit-learn · Railway
 
 [Ver el código](https://github.com/luiangelsb26/librer-a-bazar-humbertito) · [Ejecutar en tu equipo](https://github.com/luiangelsb26/librer-a-bazar-humbertito#ejecuci%C3%B3n-local)
 
@@ -42,6 +44,7 @@ Desarrollé un sistema web para gestionar inventario, compras y ventas de una li
 | --- | --- |
 | Interfaz web | Next.js, React, Angular |
 | API | Python, Starlette |
+| Alojamiento | Railway |
 | Persistencia | PostgreSQL (Supabase), SQLite, SQL |
 | Análisis de datos | Pandas, scikit-learn |
 | Conocimientos complementarios | Java, C#, HTML |
